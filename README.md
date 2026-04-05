@@ -2,6 +2,8 @@
 
 Solution to **Problem C** of the **2025 China Undergraduate Mathematical Contest in Modeling (CUMCM)**: **Timing Selection for NIPT and Fetal Abnormality Determination**.
 
+This repository contains the paper and code for our team’s project, **“‘孕’育精准：基于多模态机器学习的 NIPT 检测全流程优化算法”**. As the **team leader**, I was primarily responsible for the modeling framework, paper writing, and code organization of this work, which received the **National Second Prize** in the **2025 CUMCM**.
+
 This project combines **regression analysis, clustering, risk-aware optimization, and machine learning classification** to address a multi-stage decision problem in NIPT. Although the application background is biomedical, the core of this work is a complete **data-driven modeling workflow**, including quantitative analysis, personalized decision-making, and reproducible implementation.
 
 ## Highlights
