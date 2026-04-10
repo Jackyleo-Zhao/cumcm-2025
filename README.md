@@ -1,4 +1,4 @@
-# 2025 CUMCM Modeling Project
+# CUMCM 2025 Project
 
 Solution to **Problem C** of the **2025 China Undergraduate Mathematical Contest in Modeling (CUMCM)**: **Timing Selection for NIPT and Fetal Abnormality Determination**.
 
